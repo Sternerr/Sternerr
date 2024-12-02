@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am just a guy learning programming
 
 <!--
