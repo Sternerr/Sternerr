@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am just a guy learning programming
+
 <!--
 **Sternerr/Sternerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
