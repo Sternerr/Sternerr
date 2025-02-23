@@ -1,5 +1,7 @@
 Just a guy learning computer science
 
+> "What I cannot create, I do not understand." — Richard Feynman
+
 <!--
 **Sternerr/Sternerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
