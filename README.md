@@ -1,4 +1,11 @@
-Just a guy learning computer science
+### Hey there 
+I’m a computer science enthusiast passionate about building thoughtful solutions that solve problems. Every day, I’m diving deeper into software development, growing my skills one project at a time, and aiming to write clean, efficient, and maintainable code.
+- Deeply curious about how systems work under the hood — from algorithms and data structures to networking and infrastructure  
+- Hands-on experience experimenting Go and JavaScript/TypeScript through personal projects and challenges  
+- Constantly learning best practices in backend development and frontend development  
+- Motivated to join a team where I can contribute to building scalable, reliable infrastructure that powers real applications  
+- Always open to collaboration, feedback, and opportunities to learn from others in the community
+  
 <!--
 **Sternerr/Sternerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
