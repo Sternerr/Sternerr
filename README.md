@@ -1,4 +1,4 @@
-Just a guy looking to understand the innerworking of things.
+Just a guy looking to understand the inner working of things.
   
 <!--
 **Sternerr/Sternerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
