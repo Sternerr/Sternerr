@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m a developer from Sweden who enjoys building fullstack applications, optimizing my workflow, and crafting good software.
+I value craftsmanship, continuous improvement, and the creative process itself.
+
+I almsot forgott, use nvim btw
 <!--
 **sternerr/sternerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
