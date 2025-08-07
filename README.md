@@ -1,7 +1,9 @@
 I’m a developer from Sweden who enjoys building fullstack applications, optimizing my workflow, and crafting good software.
 I value craftsmanship, continuous improvement, and the creative process itself.
 
-Sorr, I almost forgot! I use neovim btw.
+Right now, I’m looking for a role where I can grow as fullstack developer, ideally working with Go or Node.js, with a focused team that values impact and collaboration.
+
+Oh, and before I forget: I use neovim btw.
 
 <!--
 **sternerr/sternerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
